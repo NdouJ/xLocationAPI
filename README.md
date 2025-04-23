@@ -1,4 +1,7 @@
  Key Features
+
+
+ --------------------
 📡 Search for locations within a specified radius based on latitude and longitude (lat/lng provided in the request body).
 
 🌐 Fetch data from public services such as Google Places or Foursquare.
