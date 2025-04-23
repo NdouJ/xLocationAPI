@@ -1,0 +1,6 @@
+@xLocationAPI_HostAddress = http://localhost:5048
+
+GET {{xLocationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
